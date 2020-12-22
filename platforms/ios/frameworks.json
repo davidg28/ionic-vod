@@ -1,0 +1,8 @@
+{
+    "WebKit.framework": 1,
+    "libz.tbd": 1,
+    "MediaPlayer.framework": 2,
+    "Security.framework": 1,
+    "AVFoundation.framework": 1,
+    "JavaScriptCore.framework": 1
+}

@@ -1,0 +1,55 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-ionic-webview": {
+      "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+",
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "com-darryncampbell-cordova-plugin-intent": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-uniquedeviceid": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-youtube-video-player": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-appavailability": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-exoplayer": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "cordova-plugin-streaming-media": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    },
+    "com.moust.cordova.videoplayer": {
+      "PACKAGE_NAME": "live.tplay.bnc"
+    }
+  },
+  "dependent_plugins": {}
+}
